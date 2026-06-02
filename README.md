@@ -1,5 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300C9A7&size=22&duration=2000&center=false&vCenter=true&multiline=true&width=500&height=60&lines=Hi,+I'm+Adnan+Ahmed+👋;Backend+Engineer+%7C+JS+%2F+Node+%2F+React)
 
+[📝 View my Resume](https://github.com/PROFESSOR-ADNAN/PROFESSOR-ADNAN/raw/main/resume/Adnan_Ahmed_Resume.pdf)
+
 ---
 
 > 🎓 CS student | Backend Engineer | Problem solver  
