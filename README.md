@@ -1,8 +1,8 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300C9A7&size=22&duration=2000&center=false&vCenter=true&multiline=true&width=400&height=50&lines=Hi,+I'm+Adnan+Ahmed+👋;Full-Stack+Dev+%7C+JS+%2F+Node+%2F+React)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300C9A7&size=22&duration=2000&center=false&vCenter=true&multiline=true&width=500&height=60&lines=Hi,+I'm+Adnan+Ahmed+👋;Backend+Engineer+%7C+JS+%2F+Node+%2F+React)
 
 ---
 
-> 🎓 CS student | Full-stack web developer | Problem solver  
+> 🎓 CS student | Backend Engineer | Problem solver  
 > 🌍 Based in Ethiopia · Building things that matter
 
 ---
@@ -89,13 +89,13 @@
 
 ### 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-05122A?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/PROFESSOR-ADNAN)
-[![Gmail](https://img.shields.io/badge/Gmail-05122A?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:your-email@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-05122A?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/PROFESSOR-ADNAN)
-[![Twitter/X](https://img.shields.io/badge/Twitter-05122A?style=for-the-badge&logo=x&logoColor=ffffff)](https://twitter.com/PROFESSOR-ADNAN)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-05122A?style=for-the-badge&logo=stackoverflow&logoColor=F58025)](https://stackoverflow.com/users/PROFESSOR-ADNAN)
-[![GitHub](https://img.shields.io/badge/GitHub-05122A?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/PROFESSOR-ADNAN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-05122A?style=for-the-badge&logo=vercel&logoColor=00C9A7)](https://PROFESSOR-ADNAN.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/PROFESSOR-ADNAN)
+[![Gmail](https://img.shields.io/badge/-Gmail-05122A?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:your-email@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-05122A?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/PROFESSOR-ADNAN)
+[![Twitter/X](https://img.shields.io/badge/-Twitter%2FX-05122A?style=for-the-badge&logo=x&logoColor=ffffff)](https://twitter.com/PROFESSOR-ADNAN)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-05122A?style=for-the-badge&logo=stackoverflow&logoColor=F58025)](https://stackoverflow.com/users/PROFESSOR-ADNAN)
+[![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/PROFESSOR-ADNAN)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-05122A?style=for-the-badge&logo=vercel&logoColor=00C9A7)](https://PROFESSOR-ADNAN.dev)
 
 ---
 
@@ -108,16 +108,18 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-stats.as93.net/api?user=PROFESSOR-ADNAN&theme=tokyonight&hide_border=true" alt="Adnan's GitHub Stats" />
+      <img src="https://awesome-github-stats.azurewebsites.net/user-stats/PROFESSOR-ADNAN?cardType=github&theme=tokyonight&preferLogin=false" alt="Adnan's GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=PROFESSOR-ADNAN&theme=tokyonight&hide_border=true" alt="Adnan's Streak" />
+      <img src="https://streak-stats.demolab.com?user=PROFESSOR-ADNAN&theme=tokyonight&hide_border=true" alt="Adnan's Streak" />
     </td>
   </tr>
 </table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PROFESSOR-ADNAN&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)](https://github.com/PROFESSOR-ADNAN)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PROFESSOR-ADNAN&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Langs" />
+
+> 💡 **Top Languages not loading?** GitHub's public stats server is often rate-limited. Fix: go to [this link](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) and deploy your own free instance, then replace the URL above with yours.
 
 ---
 
-[![Back to top](https://img.shields.io/static/v1?label&message=↑+back+to+top&color=00C9A7&style=flat)](https://github.com/PROFESSOR-ADNAN#top)
+[![Back to top](https://img.shields.io/static/v1?label&message=↑+back+to+top&color=1A1B27&style=flat&labelColor=1A1B27&logo=github&logoColor=00C9A7)](https://github.com/PROFESSOR-ADNAN#top)
