@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300C9A7&size=22&duration=2000&center=false&vCenter=true&multiline=true&width=500&height=60&lines=Hi,+I'm+Adnan+Ahmed+👋;Backend+Engineer+%7C+JS+%2F+Node+%2F+React)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300C9A7&size=22&duration=3000&center=false&vCenter=true&multiline=true&width=500&height=65&lines=Hi,+I'm+Adnan+Ahmed+👋;Backend+Engineer+%7C+JS+%2F+Node+%2F+React;_____)
 
 [📝 View my Resume](https://github.com/PROFESSOR-ADNAN/PROFESSOR-ADNAN/raw/main/resume/Adnan_Ahmed_Resume.pdf)
 
@@ -119,8 +119,6 @@
 </table>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PROFESSOR-ADNAN&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Langs" />
-
-> 💡 **Top Languages not loading?** GitHub's public stats server is often rate-limited. Fix: go to [this link](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) and deploy your own free instance, then replace the URL above with yours.
 
 ---
 
