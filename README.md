@@ -118,7 +118,7 @@
   </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PROFESSOR-ADNAN&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Langs" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PROFESSOR-ADNAN&bg_color=1A1B27&title_color=70A5FD&text_color=38BDAE&hide_border=true)](https://github.com/PROFESSOR-ADNAN)
 
 ---
 
